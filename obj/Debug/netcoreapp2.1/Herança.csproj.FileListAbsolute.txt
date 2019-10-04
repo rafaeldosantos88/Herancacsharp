@@ -1,0 +1,11 @@
+C:\Temp\Herança\bin\Debug\netcoreapp2.1\Herança.deps.json
+C:\Temp\Herança\bin\Debug\netcoreapp2.1\Herança.runtimeconfig.json
+C:\Temp\Herança\bin\Debug\netcoreapp2.1\Herança.runtimeconfig.dev.json
+C:\Temp\Herança\bin\Debug\netcoreapp2.1\Herança.dll
+C:\Temp\Herança\bin\Debug\netcoreapp2.1\Herança.pdb
+C:\Temp\Herança\obj\Debug\netcoreapp2.1\Herança.csprojAssemblyReference.cache
+C:\Temp\Herança\obj\Debug\netcoreapp2.1\Herança.csproj.CoreCompileInputs.cache
+C:\Temp\Herança\obj\Debug\netcoreapp2.1\Herança.AssemblyInfoInputs.cache
+C:\Temp\Herança\obj\Debug\netcoreapp2.1\Herança.AssemblyInfo.cs
+C:\Temp\Herança\obj\Debug\netcoreapp2.1\Herança.dll
+C:\Temp\Herança\obj\Debug\netcoreapp2.1\Herança.pdb
